@@ -1,0 +1,1 @@
+# Fullstck ToDO - Build with Next.js, Django and PostgreSQL
